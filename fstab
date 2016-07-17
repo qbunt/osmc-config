@@ -1,0 +1,3 @@
+/dev/mmcblk0p1  /boot    vfat     defaults,noatime    0   0
+/dev/mmcblk0p2  /    ext4      defaults,noatime    0   0
+//192.168.1.1/drivename /mnt/mountname cifs _netdev,rw,user,noauto,x-systemd.automount,username=any,password=password,uid=1000,gid=1000,sec=ntlm 0 0
